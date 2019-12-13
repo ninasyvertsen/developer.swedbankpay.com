@@ -18,15 +18,15 @@ sidebar:
 
 {% include alert-development-section.md %}
 
+## Payment Resource
+
+{% include payment-resource.md payment-instrument="swish" %}
+
 {% include settlement-reconciliation.md %}
 
-{% include one-click-payments.md %}
+{% include subsite.md payment-instrument="swish" %}
 
 {% include payment-link.md %}
-
-{% include recurring-card-payments.md %}
-
-{% include subsite.md payment-instrument="swish" %}
 
 ### Prices
 
