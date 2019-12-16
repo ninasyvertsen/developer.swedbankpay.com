@@ -475,7 +475,7 @@ sequenceDiagram
     deactivate PayEx
 ```
 
-{% include subsite.md payment-instrument="invoice" %}
+{% include subsite.md %}
 
 ### Prices
 

@@ -24,7 +24,7 @@ sidebar:
 
 {% include settlement-reconciliation.md %}
 
-{% include subsite.md payment-instrument="swish" %}
+{% include subsite.md %}
 
 {% include payment-link.md %}
 
