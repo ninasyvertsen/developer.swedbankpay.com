@@ -24,8 +24,6 @@ sidebar:
 
 {% include settlement-reconciliation.md %}
 
-{% include subsite.md %}
-
 {% include payment-link.md %}
 
 ### Prices

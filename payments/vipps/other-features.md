@@ -32,8 +32,6 @@ sidebar:
 
 {% include operations-reference.md %}
 
-{% include subsite.md %}
-
 ### Prices
 
 {% include prices.md %}
