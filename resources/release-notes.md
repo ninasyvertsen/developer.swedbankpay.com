@@ -29,6 +29,11 @@ published on this page." %}
 body="The version numbers used in headers on this page refers to the version of
 this very documentation, not to a version of any APIs described by it." %}
 
+## February 2020
+
+### Version 1.6.4
+* We have added card logos when selecting card in payment menu. See [updated screenshot of payment menu][checkout-payment-menu-frontend]
+
 ## January 2020
 
 ### Version 1.6.3
@@ -232,6 +237,7 @@ integration and the payer.
 [checkout-checkin-front-end]: /checkout/checkin#checkin-front-end
 [checkout-payment-orders]: /checkout/other-features#payment-orders
 [checkout-payment-order-purchase]: /checkout/payment-menu#request
+[checkout-payment-menu-frontend]: /checkout/payment-menu#payment-menu-front-end
 [checkout-payment-url]: /checkout/other-features#payment-url
 [checkout]: /checkout
 [credit]: /payments/credit
